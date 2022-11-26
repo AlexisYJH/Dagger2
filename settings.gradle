@@ -1,0 +1,21 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "dagger2"
+include ':app'
+include ':manualioc'
+include ':instance1'
+include ':instance1'
+include ':intance2'
+include ':instance2'
+include ':scope'
+include ':myscope'
+include ':componentdependencies'
+include ':subcomponent'
+include ':multiconstructions'
+include ':manualcode'

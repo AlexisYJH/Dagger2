@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/componentdependencies" />
+            <option value="$PROJECT_DIR$/instance1" />
+            <option value="$PROJECT_DIR$/instance2" />
+            <option value="$PROJECT_DIR$/intance2" />
+            <option value="$PROJECT_DIR$/manualcode" />
+            <option value="$PROJECT_DIR$/manualioc" />
+            <option value="$PROJECT_DIR$/multiconstructions" />
+            <option value="$PROJECT_DIR$/myscope" />
+            <option value="$PROJECT_DIR$/scope" />
+            <option value="$PROJECT_DIR$/subcomponent" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
