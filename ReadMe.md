@@ -1,3 +1,6 @@
+# Dagger2
+Dagger是提供给Android**快速实现依赖注入的框架**。
+
 > $$manualioc
 - 手动依赖注入
 
